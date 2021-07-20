@@ -1,2 +1,2 @@
 # appkonct
-Just anoter projetinho!!! 
+Vamos fazer um projetinho, projetinho; 
