@@ -22,4 +22,10 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+	public function api()
+	{
+		$data = array('msg' => 'teste');
+		$this->rest->get(200,$data);
+	}
+
 }
